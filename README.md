@@ -2,58 +2,92 @@
 <!-- 🧠 BRUNO TEIXEIRA README -->
 <!-- ======================= -->
 
-# Hi there! 👋  
-## I'm **Bruno**, a Back-End Developer from Brazil 🇧🇷  
+# Hello there! I'm Bruno 
+## A Backend Developer from Brazil 🇧🇷  
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🧑‍💻 I'm a **freelance back-end developer** focused on building clean, scalable, and secure APIs.  
-- 🎓 Currently pursuing a **Bachelor’s degree in Information Systems** at **Uninter** (3rd semester).  
-- 🐍 Working mainly with **Python**, while learning **Go** to expand my technical skill set.  
-- ⚙️ Passionate about **clean architecture**, **automation**, and **continuous improvement**.  
-
----
-
-### ⚡ Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat&logo=nginx&logoColor=white)
+- Backend developer with hands-on experience building and deploying APIs used by real users.
+- Core stack: **Python**, **Django**, **Django REST Framework**,  **FastAPI**, **PostgreSQL**, **Docker**.
+- Currently expanding into Node.js / TypeScript ecosystem  
+- Pursuing a **Bachelor’s degree in Information Systems** at **Uninter**.  
 
 ---
 
-### 🚀 Featured Projects
+### Tech Stack
 
-- [**Dupla de Milheiros**](https://github.com/Brunotlps/dupla-de-milheiros) — Django web platform for digital product sales and user authentication.  
-- [**E-Classifier**](https://github.com/Brunotlps/autou-email-classifier) — Email classification backend using Machine Learning with Scikit-learn.  
+**Backend**
+- Django, Django REST Framework, FastAPI
+- REST APIs, authentication, API design
+
+**Architecture & Performance**
+- Redis (cache)
+- Celery (background jobs)
+- Modular architecture & clean code
+
+**DevOps & Infra**
+- Docker & Docker Compose
+- Nginx, Gunicorn
+- VPS (Linux, manual deploy)
+
+**Databases**
+- PostgreSQL, SQLite
+
+**Also familiar with**
+- JavaScript / Next.js (frontend & API integration)
+- WebSockets (real-time communication)
+
+---
+
+### Featured Projects
+
+### Web School System (WSS)
+> API-first platform for selling and managing online courses
+
+- Django + DRF + PostgreSQL
+- Async processing with Celery + Redis
+- Dockerized environment (app + db + worker)
+- Certificate generation system (PDF)
+- Production-oriented architecture
+- Designed to evolve into a production-ready platform
+
+👉 *Main project focused on real-world scalability*
+
+
+### Email-Classifier
+> Email classification system using Machine Learning
+
+- REST API + ML integration (Scikit-learn)
+- Async processing and data pipelines
+- Used by real users (~15 users)
+- Previously deployed to production on Railway with real users
+- Currently migrating infrastructure to a self-managed VPS
+
+#### Group Chat
+> Real-time group chat built with WebSockets
+
+- Study project exploring real-time communication
+- Built with Python and WebSockets
+- Functional local implementation
+
+---
+
+### Recent Work
+
+Recently delivered the backend for **Zodiac Energy Drink**, an international brand's web platform. The system was deployed to production and served real users before the project was paused by the client. Built with Django, DRF, and PostgreSQL, deployed with Docker and Nginx.
+
+---
+
+## What I'm Looking For
+
+I'm currently seeking a Backend Junior opportunity where I can contribute to real-world systems, grow with experienced engineers and deepen my expertise in backend architecture.
 
 ### 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/brunotlps" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotlps/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" fill="white" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:brunoteixlps@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" fill="white" alt="Email"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunotlps)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brunoteixlps@gmail.com)
 
 ---
 
